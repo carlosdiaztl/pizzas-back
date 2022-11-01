@@ -1100,82 +1100,79 @@
         "address": "63 Williamsburg Street, Kidder, North Dakota"
       }
     }
-  ]
-    
-    
-  ,
+  ],
+
   "pizzas": [
     {
-      "id":1,
-      "pizza":"Carnes",
-      "ingredientes":"Base delgada y crocante, salsa, queso, jamón, salami, cábano",
-      "precio":41796,
-      "imagenes":"https://ibb.co/jLcD8JB"
+      "id": 1,
+      "pizza": "Carnes",
+      "ingredientes": "Base delgada y crocante, salsa, queso, jamón, salami, cábano",
+      "precio": 41796,
+      "imagenes": "https://ibb.co/jLcD8JB"
     },
     {
-      "id":2,
-      "pizza":"Dos Quesos con Manzana",
-      "ingredientes":"Base delgada y crocante, salsa, queso, queso azul, manzana",
-      "precio":44712,
-      "imagenes":"https://ibb.co/G7fBmJp"
+      "id": 2,
+      "pizza": "Dos Quesos con Manzana",
+      "ingredientes": "Base delgada y crocante, salsa, queso, queso azul, manzana",
+      "precio": 44712,
+      "imagenes": "https://ibb.co/G7fBmJp"
     },
     {
-      "id":3,
-      "pizza":" Hawaiana",
-      "ingredientes":"Base delgada y crocante, salsa de piña, queso, jamón, piña",
-      "precio":41796,
-      "imagenes":"https://ibb.co/82y5WWm"
+      "id": 3,
+      "pizza": " Hawaiana",
+      "ingredientes": "Base delgada y crocante, salsa de piña, queso, jamón, piña",
+      "precio": 41796,
+      "imagenes": "https://ibb.co/82y5WWm"
     },
     {
-      "id":4,
-      "pizza":"Mediterranea",
-      "ingredientes":"Base delgada y crocante, salsa, queso, pimentón asado, zuquini, aceitunas, calabacín, y tomates marinados",
-      "precio":37692,
-      "imagenes":"https://ibb.co/mSyKfqV"
+      "id": 4,
+      "pizza": "Mediterranea",
+      "ingredientes": "Base delgada y crocante, salsa, queso, pimentón asado, zuquini, aceitunas, calabacín, y tomates marinados",
+      "precio": 37692,
+      "imagenes": "https://ibb.co/mSyKfqV"
     },
     {
-      "id":5,
-      "pizza":"Napolitana",
-      "ingredientes":"Base delgada y crocante, salsa, queso, tomate al horno, albahaca",
-      "precio":36936,
-      "imagenes":"https://ibb.co/FhdrNGh"
+      "id": 5,
+      "pizza": "Napolitana",
+      "ingredientes": "Base delgada y crocante, salsa, queso, tomate al horno, albahaca",
+      "precio": 36936,
+      "imagenes": "https://ibb.co/FhdrNGh"
     },
     {
-      "id":6,
-      "pizza":"Peperoni y Champiñones",
-      "ingredientes":" Base delgada y crocante, salsa, queso, peperoni, champiñones",
-      "precio":39960,
-      "imagenes":"https://ibb.co/VQ7Tbh4"
+      "id": 6,
+      "pizza": "Peperoni y Champiñones",
+      "ingredientes": " Base delgada y crocante, salsa, queso, peperoni, champiñones",
+      "precio": 39960,
+      "imagenes": "https://ibb.co/VQ7Tbh4"
     },
     {
-      "id":7,
-      "pizza":"Pollo y Tocineta",
-      "ingredientes":"Base delgada y crocante, salsa, queso, pollo, tocineta",
-      "precio":45684,
-      "imagenes":"https://ibb.co/mHNwWTL"
+      "id": 7,
+      "pizza": "Pollo y Tocineta",
+      "ingredientes": "Base delgada y crocante, salsa, queso, pollo, tocineta",
+      "precio": 45684,
+      "imagenes": "https://ibb.co/mHNwWTL"
     },
     {
-      "id":8,
-      "pizza":"Queso Azul, Salmón y Tomates Cherry",
-      "ingredientes":" Hace las delicias de los paladares más exigentes",
-      "precio":36936,
-      "imagenes":"https://ibb.co/kBbJ3cx"
+      "id": 8,
+      "pizza": "Queso Azul, Salmón y Tomates Cherry",
+      "ingredientes": " Hace las delicias de los paladares más exigentes",
+      "precio": 36936,
+      "imagenes": "https://ibb.co/kBbJ3cx"
     },
     {
-      "id":9,
-      "pizza":"Queso Azul, Jamón, Setas y Hortalizas",
-      "ingredientes":"Base delgada y crocante, salsa, queso azul, jamón, setas y hortalizas",
-      "precio":44712,
-      "imagenes":"https://ibb.co/8N8w8TV"
+      "id": 9,
+      "pizza": "Queso Azul, Jamón, Setas y Hortalizas",
+      "ingredientes": "Base delgada y crocante, salsa, queso azul, jamón, setas y hortalizas",
+      "precio": 44712,
+      "imagenes": "https://ibb.co/8N8w8TV"
     },
     {
-      "id":10,
-      "pizza":"Tocineta y Maíz Tierno",
-      "ingredientes":"Base delgada y crocante, salsa, queso, tocineta, maíz tierno",
-      "precio":45684,
-      "imagenes":"https://ibb.co/njHbpGP"
+      "id": 10,
+      "pizza": "Tocineta y Maíz Tierno",
+      "ingredientes": "Base delgada y crocante, salsa, queso, tocineta, maíz tierno",
+      "precio": 45684,
+      "imagenes": "https://ibb.co/njHbpGP"
     }
-
   ],
   "compras": []
 }
