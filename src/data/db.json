@@ -1106,34 +1106,43 @@
     {
       "id": 1,
       "pizza": "Carnes",
+      "name":"Carnes",
       "ingredientes": "Base delgada y crocante, salsa, queso, jamón, salami, cábano",
       "precio": 41796,
-      "imagenes": "https://i.ibb.co/CnkQwPN/V1-WEB-PIZZAS-CARNES.png"
+      "imagenes": "https://i.ibb.co/CnkQwPN/V1-WEB-PIZZAS-CARNES.png",
+      "categoria":"favoritas"
     },
     {
       "id": 2,
       "pizza": "Dos Quesos con Manzana",
+      "name":"Dosquesomanzana",
       "ingredientes": "Base delgada y crocante, salsa, queso, queso azul, manzana",
       "precio": 44712,
-      "imagenes": "https://i.ibb.co/1ZYhcnQ/V1-WEB-PIZZAS-NAPOLITANA.png"
+      "imagenes": "https://i.ibb.co/1ZYhcnQ/V1-WEB-PIZZAS-NAPOLITANA.png",
+      "categoria":"favoritas"
     },
     {
       "id": 3,
-      "pizza": " Hawaiana",
+      "pizza": "Hawaiana",
+      "name":"Hawaiana",
       "ingredientes": "Base delgada y crocante, salsa de piña, queso, jamón, piña",
       "precio": 41796,
-      "imagenes": "https://i.ibb.co/ft3phhX/V1-WEB-PIZZAS-POLLO-TOCINETA.png"
+      "imagenes": "https://i.ibb.co/ft3phhX/V1-WEB-PIZZAS-POLLO-TOCINETA.png",
+      "categoria":"favoritas"
     },
     {
       "id": 4,
       "pizza": "Mediterranea",
+      "name":"Mediterranea",
       "ingredientes": "Base delgada y crocante, salsa, queso, pimentón asado, zuquini, aceitunas, calabacín, y tomates marinados",
       "precio": 37692,
-      "imagenes": "https://i.ibb.co/hCdN3WJ/V1-WEB-PIZZAS-PEPPERONI-CHAMPINONES.png"
+      "imagenes": "https://i.ibb.co/hCdN3WJ/V1-WEB-PIZZAS-PEPPERONI-CHAMPINONES.png",
+      "categoria":"favoritas"
     },
     {
       "id": 5,
       "pizza": "Napolitana",
+      "name":"Napolitana",
       "ingredientes": "Base delgada y crocante, salsa, queso, tomate al horno, albahaca",
       "precio": 36936,
       "imagenes": "https://i.ibb.co/S6ZjWq6/V1-WEB-PIZZAS-HAWAIANA.png"
@@ -1141,37 +1150,47 @@
     {
       "id": 6,
       "pizza": "Peperoni y Champiñones",
+      "name":"Peperoniychampiñones",
       "ingredientes": " Base delgada y crocante, salsa, queso, peperoni, champiñones",
       "precio": 39960,
-      "imagenes": "https://i.ibb.co/2sDdRL4/V1-WEB-PIZZAS-SALMON-TOMATE-CHERRY.png"
+      "imagenes": "https://i.ibb.co/2sDdRL4/V1-WEB-PIZZAS-SALMON-TOMATE-CHERRY.png",
+      "categoria":"mes"
     },
     {
       "id": 7,
       "pizza": "Pollo y Tocineta",
+      "name":"Polloytocineta",
       "ingredientes": "Base delgada y crocante, salsa, queso, pollo, tocineta",
       "precio": 45684,
-      "imagenes": "https://i.ibb.co/VvwZ497/V1-WEB-PIZZAS-MEDITERRANEA.png"
+      "imagenes": "https://i.ibb.co/VvwZ497/V1-WEB-PIZZAS-MEDITERRANEA.png",
+      "categoria":"delacasa"
     },
     {
       "id": 8,
       "pizza": "Queso Azul, Salmón y Tomates Cherry",
+      "name":"Quesoazulsalmon",
       "ingredientes": " Hace las delicias de los paladares más exigentes",
       "precio": 36936,
-      "imagenes": "https://i.ibb.co/dMCtbKr/V1-WEB-PIZZAS-DOS-QUESOS-MANZANA.png"
+      "imagenes": "https://i.ibb.co/dMCtbKr/V1-WEB-PIZZAS-DOS-QUESOS-MANZANA.png",
+      "categoria":"delacasa"
     },
     {
       "id": 9,
       "pizza": "Queso Azul, Jamón, Setas y Hortalizas",
+      "name":"Quesoazuljamon",
       "ingredientes": "Base delgada y crocante, salsa, queso azul, jamón, setas y hortalizas",
       "precio": 44712,
-      "imagenes": "https://i.ibb.co/VJBGBr8/V1-WEB-PIZZAS-SETAS-HORTALIZAS.png"
+      "imagenes": "https://i.ibb.co/VJBGBr8/V1-WEB-PIZZAS-SETAS-HORTALIZAS.png",
+      "categoria":"delacasa"
     },
     {
       "id": 10,
       "pizza": "Tocineta y Maíz Tierno",
+      "name":"Tocinetamaiztierno",
       "ingredientes": "Base delgada y crocante, salsa, queso, tocineta, maíz tierno",
       "precio": 45684,
-      "imagenes": "https://i.ibb.co/jDcTtNJ/V1-WEB-PIZZAS-TOCINETA-MAIZTIERNO.png"
+      "imagenes": "https://i.ibb.co/jDcTtNJ/V1-WEB-PIZZAS-TOCINETA-MAIZTIERNO.png",
+      "categoria":"delacasa"
     }
   ],
   "compras": []
