@@ -1145,7 +1145,8 @@
       "name":"Napolitana",
       "ingredientes": "Base delgada y crocante, salsa, queso, tomate al horno, albahaca",
       "precio": 36936,
-      "imagenes": "https://i.ibb.co/S6ZjWq6/V1-WEB-PIZZAS-HAWAIANA.png"
+      "imagenes": "https://i.ibb.co/S6ZjWq6/V1-WEB-PIZZAS-HAWAIANA.png",
+      "categoria":"mes"
     },
     {
       "id": 6,
